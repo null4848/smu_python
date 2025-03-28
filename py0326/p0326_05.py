@@ -39,3 +39,4 @@ print(type(aaa)) # bool 타입
 print(type(ccc)) # 숫자 - 정수
 print(type(ddd)) # 숫자 - 실수
 print(type(eee)) # 문자열
+
