@@ -37,5 +37,3 @@ resutl2 = ((rec1 + rec2) * 2)
 print("직사각형의 넓이 {} cm2".format(result1))
 print("직사각형의 둘레 {} cm".format(resutl2))
 
-
-
