@@ -42,4 +42,3 @@ print("도전 횟수 : {}".format(n))
 print("입력된 숫자 : {}".format(num))
 print("랜덤 숫자 : {}".format(ran_num))
 
-
