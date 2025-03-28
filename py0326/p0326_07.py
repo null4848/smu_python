@@ -39,3 +39,4 @@ print(a,b)
 print(type(a)) # 문자열
 print(type(b)) # 문자열
 print(a+b) # 10 + 5 15 X 105 문자열이기 때문에 계산이 안됨
+
