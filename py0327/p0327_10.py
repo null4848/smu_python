@@ -31,4 +31,4 @@ print("도전 회수 : {}".format(n))
 print("도전 번호 : {}".format(num))
 print("랜덤 번호 : {}".format(ran_num))
 
-        
+
