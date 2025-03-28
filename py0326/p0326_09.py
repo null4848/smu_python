@@ -31,3 +31,4 @@ b = 3
 print("%d / %d = %.2f" % (a,b,a/b))
 str_print = "{} / {} = {:.2f}".format(a,b,a/b)
 print(str_print)
+
