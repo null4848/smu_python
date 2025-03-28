@@ -38,3 +38,4 @@ print()
 print("이름\t국어\t영어\t수학\t합계\t평균\t")
 print("-"*50)
 print("{}\t{}\t{}\t{}\t{}\t{:.2f}".format(name,kor,eng,math,total,avg))
+
