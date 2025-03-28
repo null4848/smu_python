@@ -23,3 +23,5 @@ elif 9<=season<=11:
     print("가을의 계절입니다.")
 else: 
     print("겨울의 계절입니다.")
+    
+    
