@@ -3,6 +3,7 @@ print("[ 학생성적 입력 ]")
 count = 1
 
 while True:
+    # 화면 출력
     print("1. 학생성적입력")
     print("2. 학생성적출력")
     print("3. 학생성적수정")
@@ -11,8 +12,9 @@ while True:
     print("6. 학생성적검색")
     print("7. 학생성적종료")
     print("0. 프로그램 종료")
-
     print("-"*30)
+    
+    # 번호 입력
     choice = int(input("원하는 번호를 입력하세요.>> "))
     print()
     
