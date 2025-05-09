@@ -112,7 +112,8 @@ while True:
             if name in s:
                 temp = 1
                 print(f"{name} 학생을 찾았습니다.")
-                choice = int(input(f"{name} 학생의 성적을 삭제하시겠습니까? (0.아니요 1.예)"))
+                print()
+                choice = int(input(f"{name} 학생의 성적을 삭제하시겠습니까? (0.아니요 1.예)>> "))
                 if choice == 1:
                     print(f"{name} 학생의 성적을 삭제하였습니다.")
                     del students[i]
